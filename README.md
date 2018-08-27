@@ -1,0 +1,2 @@
+# gohello
+Go Beginners Training
